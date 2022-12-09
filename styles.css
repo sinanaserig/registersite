@@ -1,0 +1,22 @@
+body{
+    direction: rtl;
+}
+
+#users{
+    background: #DFE0E3;
+    text-align: center;
+    width:300px;
+    margin: auto;
+    padding:10px;
+    border-radius:5px;
+}
+
+
+#users .input{
+   padding:5px;
+   width:200px;
+   margin:5px;
+   font-family: tahoma;
+
+
+}
